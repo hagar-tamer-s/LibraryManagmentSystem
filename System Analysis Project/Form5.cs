@@ -49,6 +49,7 @@ namespace System_Analysis_Project
 
         }
 
+
         private void button2_Click(object sender, EventArgs e)
         {
             Form3 main2 = new Form3();
@@ -71,6 +72,10 @@ namespace System_Analysis_Project
             }
             errorProvider1.SetError(textBox1, "");
             e.Cancel = false;
+        }
+
+        private void Form5_Load(object sender, EventArgs e)
+        {
         }
     }
 }
