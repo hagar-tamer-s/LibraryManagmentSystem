@@ -17,30 +17,9 @@ namespace System_Analysis_Project
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button4_Click_1(object sender, EventArgs e)
         {
-            Form7 main2 = new Form7();
-            main2.Show();
-            this.Hide();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            Form9 main3 = new Form9();
-            main3.Show();
-            this.Hide();
-        }
-
-        private void button5_Click(object sender, EventArgs e)
-        {
-            Form3 main4 = new Form3();
-            main4.Show();
-            this.Hide();
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-            Form10 main6 = new Form10();
+            Form4 main6 = new Form4();
             main6.Show();
             this.Hide();
         }

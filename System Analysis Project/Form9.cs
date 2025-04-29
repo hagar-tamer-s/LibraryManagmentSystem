@@ -16,33 +16,31 @@ namespace System_Analysis_Project
         {
             InitializeComponent();
         }
-
-        private void button1_Click(object sender, EventArgs e)
+        private void textBox2_TextChanged(object sender, EventArgs e)
         {
-            Form7 main2 = new Form7();
-            main2.Show();
-            this.Hide();
+
         }
 
-        private void button3_Click(object sender, EventArgs e)
-        {
-            Form8 main3 = new Form8();
-            main3.Show();
-            this.Hide();
-        }
-
-        private void button5_Click(object sender, EventArgs e)
+        private void button4_Click_1(object sender, EventArgs e)
         {
             Form3 main4 = new Form3();
             main4.Show();
             this.Hide();
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void textBox5_TextChanged(object sender, EventArgs e)
         {
-            Form10 main6 = new Form10();
-            main6.Show();
-            this.Hide();
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

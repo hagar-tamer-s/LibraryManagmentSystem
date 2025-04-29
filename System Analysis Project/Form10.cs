@@ -44,5 +44,10 @@ namespace System_Analysis_Project
             main4.Show();
             this.Hide();
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
