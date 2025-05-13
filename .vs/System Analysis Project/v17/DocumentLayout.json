@@ -1,18 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\laptop\\Desktop\\Edit1\\",
+  "WorkspaceRootPath": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|c:\\users\\laptop\\desktop\\edit1\\system analysis project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|solutionrelative:system analysis project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|c:\\users\\maria\\onedrive\\desktop\\librarymanagmentsystem\\system analysis project\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|solutionrelative:system analysis project\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|c:\\users\\laptop\\desktop\\edit1\\system analysis project\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|solutionrelative:system analysis project\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\system analysis project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|solutionrelative:system analysis project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|c:\\users\\laptop\\desktop\\edit1\\system analysis project\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|solutionrelative:system analysis project\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\system analysis project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|solutionrelative:system analysis project\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\system analysis project\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|solutionrelative:system analysis project\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\system analysis project\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|solutionrelative:system analysis project\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\system analysis project\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|solutionrelative:system analysis project\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\system analysis project\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|solutionrelative:system analysis project\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\system analysis project\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|solutionrelative:system analysis project\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\system analysis project\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|solutionrelative:system analysis project\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\system analysis project\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|solutionrelative:system analysis project\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\system analysis project\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|solutionrelative:system analysis project\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\system analysis project\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|solutionrelative:system analysis project\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\system analysis project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|solutionrelative:system analysis project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\system analysis project\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|solutionrelative:system analysis project\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\system analysis project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3AEFA50-5E9F-4000-AA20-261C5862FB0D}|System Analysis Project\\System Analysis Project.csproj|solutionrelative:system analysis project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +70,184 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\laptop\\Desktop\\Edit1\\System Analysis Project\\Form1.cs",
-              "RelativeDocumentMoniker": "System Analysis Project\\Form1.cs",
-              "ToolTip": "C:\\Users\\laptop\\Desktop\\Edit1\\System Analysis Project\\Form1.cs [Design]",
-              "RelativeToolTip": "System Analysis Project\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T08:45:03.515Z",
-              "EditorCaption": " [Design]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\laptop\\Desktop\\Edit1\\System Analysis Project\\Form3.cs",
-              "RelativeDocumentMoniker": "System Analysis Project\\Form3.cs",
-              "ToolTip": "C:\\Users\\laptop\\Desktop\\Edit1\\System Analysis Project\\Form3.cs",
-              "RelativeToolTip": "System Analysis Project\\Form3.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAD4v0wAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form9.cs",
+              "RelativeDocumentMoniker": "System Analysis Project\\Form9.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form9.cs",
+              "RelativeToolTip": "System Analysis Project\\Form9.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAwHIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-28T08:39:52.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-12T03:47:16.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form10.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form10.cs",
+              "RelativeDocumentMoniker": "System Analysis Project\\Form10.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form10.cs",
+              "RelativeToolTip": "System Analysis Project\\Form10.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAwHcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:53:12.961Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\laptop\\Desktop\\Edit1\\System Analysis Project\\Form3.cs",
-              "RelativeDocumentMoniker": "System Analysis Project\\Form3.cs",
-              "ToolTip": "C:\\Users\\laptop\\Desktop\\Edit1\\System Analysis Project\\Form3.cs [Design]",
-              "RelativeToolTip": "System Analysis Project\\Form3.cs [Design]",
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form4.cs",
+              "RelativeDocumentMoniker": "System Analysis Project\\Form4.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form4.cs [Design]",
+              "RelativeToolTip": "System Analysis Project\\Form4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T20:18:38.632Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-11T19:02:34.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form9.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form9.cs",
+              "RelativeDocumentMoniker": "System Analysis Project\\Form9.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form9.cs [Design]",
+              "RelativeToolTip": "System Analysis Project\\Form9.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:47:51.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form6.cs",
+              "RelativeDocumentMoniker": "System Analysis Project\\Form6.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form6.cs [Design]",
+              "RelativeToolTip": "System Analysis Project\\Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:32:23.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form4.cs",
+              "RelativeDocumentMoniker": "System Analysis Project\\Form4.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form4.cs",
+              "RelativeToolTip": "System Analysis Project\\Form4.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAYwEUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T00:18:04.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form10.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form10.cs",
+              "RelativeDocumentMoniker": "System Analysis Project\\Form10.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form10.cs [Design]",
+              "RelativeToolTip": "System Analysis Project\\Form10.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:52:55.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form8.cs",
+              "RelativeDocumentMoniker": "System Analysis Project\\Form8.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form8.cs",
+              "RelativeToolTip": "System Analysis Project\\Form8.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAArwD4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:28:00.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form8.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form8.cs",
+              "RelativeDocumentMoniker": "System Analysis Project\\Form8.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form8.cs [Design]",
+              "RelativeToolTip": "System Analysis Project\\Form8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T03:27:50.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form7.cs",
+              "RelativeDocumentMoniker": "System Analysis Project\\Form7.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form7.cs",
+              "RelativeToolTip": "System Analysis Project\\Form7.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAwHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:35:02.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form7.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form7.cs",
+              "RelativeDocumentMoniker": "System Analysis Project\\Form7.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form7.cs [Design]",
+              "RelativeToolTip": "System Analysis Project\\Form7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T04:02:50.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form5.cs",
+              "RelativeDocumentMoniker": "System Analysis Project\\Form5.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form5.cs [Design]",
+              "RelativeToolTip": "System Analysis Project\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:52:56.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form2.cs",
+              "RelativeDocumentMoniker": "System Analysis Project\\Form2.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form2.cs [Design]",
+              "RelativeToolTip": "System Analysis Project\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T02:31:41.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "System Analysis Project\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Form3.Designer.cs",
+              "RelativeToolTip": "System Analysis Project\\Form3.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T23:32:22.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Program.cs",
+              "RelativeDocumentMoniker": "System Analysis Project\\Program.cs",
+              "ToolTip": "C:\\Users\\maria\\OneDrive\\Desktop\\LibraryManagmentSystem\\System Analysis Project\\Program.cs",
+              "RelativeToolTip": "System Analysis Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T16:59:29.302Z"
             }
           ]
         }

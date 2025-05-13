@@ -61,3 +61,45 @@ C:\Users\CRIZMA MEGA STORE\Desktop\LibraryManagmentSystem\System Analysis Projec
 C:\Users\CRIZMA MEGA STORE\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System Analysis Project.csproj.CoreCompileInputs.cache
 C:\Users\CRIZMA MEGA STORE\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System Analysis Project.exe
 C:\Users\CRIZMA MEGA STORE\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System Analysis Project.pdb
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\bin\Debug\Database2.mdf
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\bin\Debug\Database2_log.ldf
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\bin\Debug\System Analysis Project.exe.config
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\bin\Debug\System Analysis Project.exe
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\bin\Debug\System Analysis Project.pdb
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System Analysis Project.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form1.resources
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form10.resources
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form2.resources
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form3.resources
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form4.resources
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form5.resources
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form6.resources
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form7.resources
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form8.resources
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form9.resources
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Properties.Resources.resources
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System Analysis Project.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System Analysis Project.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System Analysis Project.exe
+C:\Users\maria\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System Analysis Project.pdb
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\bin\Debug\Database2.mdf
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\bin\Debug\Database2_log.ldf
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\bin\Debug\System Analysis Project.exe.config
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\bin\Debug\System Analysis Project.exe
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\bin\Debug\System Analysis Project.pdb
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System Analysis Project.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form1.resources
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form10.resources
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form2.resources
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form3.resources
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form4.resources
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form5.resources
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form6.resources
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form7.resources
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form8.resources
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Form9.resources
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System_Analysis_Project.Properties.Resources.resources
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System Analysis Project.csproj.GenerateResource.cache
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System Analysis Project.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System Analysis Project.exe
+C:\Users\maria\OneDrive\Desktop\LibraryManagmentSystem\System Analysis Project\obj\Debug\System Analysis Project.pdb

@@ -23,10 +23,10 @@ namespace System_Analysis_Project
         private void button1_Click(object sender, EventArgs e)
         {
 
-            using (SqlConnection con = new SqlConnection("Data Source=.;Initial Catalog=MyDB;Integrated Security=True;Encrypt=False"))
+            using (SqlConnection con = new SqlConnection("Data Source=.;Initial Catalog=LIBRARY_SYSTEM;Integrated Security=True;Encrypt=False"))
             {
                 con.Open();
-                SqlDataAdapter sda = new SqlDataAdapter("SELECT COUNT(*) FROM users WHERE phone='" + textBox1.Text+ "' or email='" +textBox1.Text+ "'", con);
+                SqlDataAdapter sda = new SqlDataAdapter("SELECT COUNT(*) FROM LIBRARIAN WHERE LIB_PHONE='" + textBox1.Text+ "' or LIB_EMAIL='" +textBox1.Text+ "'", con);
                 DataTable dt = new DataTable();
                 sda.Fill(dt);
 
@@ -76,6 +76,11 @@ namespace System_Analysis_Project
 
         private void Form5_Load(object sender, EventArgs e)
         {
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

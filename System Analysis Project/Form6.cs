@@ -35,11 +35,11 @@ namespace System_Analysis_Project
 
         }
 
-        SqlConnection con = new SqlConnection(@"Data Source=.;Initial Catalog=MyDB;Integrated Security=True;Encrypt=False");
+        SqlConnection con = new SqlConnection(@"Data Source=.;Initial Catalog=LIBRARY_SYSTEM;Integrated Security=True;Encrypt=False");
         private void button1_Click(object sender, EventArgs e)
         {
             con.Open();
-            string query = "INSERT INTO users(username,password,phone,email) VALUES(@username,@password,@phone,@email)";
+            string query = "INSERT INTO LIBRARIAN(LIB_NAME,LIB_PASS,LIB_PHONE,LIB_EMAIL) VALUES(@username,@password,@phone,@email)";
             SqlCommand cmd = new SqlCommand(query, con);
             cmd.Parameters.AddWithValue("@username", textBox1.Text);
             cmd.Parameters.AddWithValue("@password", textBox4.Text);
@@ -67,6 +67,11 @@ namespace System_Analysis_Project
             }
             errorProvider1.SetError(textBox1, "");
             e.Cancel = false;
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }

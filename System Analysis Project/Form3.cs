@@ -22,10 +22,10 @@ namespace System_Analysis_Project
         private void button1_Click(object sender, EventArgs e)
         {
 
-            using (SqlConnection con = new SqlConnection("Data Source=.;Initial Catalog=MyDB;Integrated Security=True;Encrypt=False"))
+            using (SqlConnection con = new SqlConnection("Data Source=.;Initial Catalog=LIBRARY_SYSTEM;Integrated Security=True;Encrypt=False"))
             {
                 con.Open();
-                SqlDataAdapter sda = new SqlDataAdapter("SELECT COUNT(*) FROM users WHERE username='" + textBox2.Text + "' AND password='" + textBox1.Text + "'", con);
+                SqlDataAdapter sda = new SqlDataAdapter("SELECT COUNT(*) FROM LIBRARIAN WHERE LIB_NAME='" + textBox2.Text + "' AND LIB_PASS='" + textBox1.Text + "'", con);
                 DataTable dt = new DataTable();
                 sda.Fill(dt);
                 if (dt.Rows[0][0].ToString() == "1")
@@ -46,7 +46,7 @@ namespace System_Analysis_Project
 
                     Properties.Settings.Default.Save();
 
-                    MessageBox.Show("Login Successfully");
+                    MessageBox.Show("Logged in Successfully");
                     Form4 main = new Form4();
                     main.Show();
                     this.Hide();
@@ -128,6 +128,16 @@ namespace System_Analysis_Project
                 picEye.Image = Properties.Resources.eye_opened;
                 isPasswordShown = true;
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
